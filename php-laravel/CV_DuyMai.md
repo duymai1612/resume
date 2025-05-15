@@ -1,4 +1,4 @@
-**Full-stack Software Engineer**
+**Senior PHP / Laravel Full-Stack Engineer**
 
 # **Duy Mai**
 
@@ -6,72 +6,67 @@ duymai4work@gmail.com
 
 ![][image1]
 
-*I am a Senior Full-Stack Software Engineer with over 8 years of experience building web applications, specializing in React.js and Node.js stack. I am comfortable splitting my time between front-end, back-end, and DevOps tasks. I use TypeScript to write clean, reliable code and have worked with AWS and Google Cloud Platform to create secure, scalable solutions. I enjoy solving complex technical challenges and working with teams worldwide.*
+*I am a Senior Software Engineer with 8+ years of experience architecting and building web applications, specialising in PHP 8 and the Laravel ecosystem. I craft scalable back-ends following modern design patterns (DDD, CQRS) and enjoy working across the stack – from Vue/React front-ends to Dockerised CI/CD pipelines on AWS. My background also includes delivering high-traffic systems in Node.js/React, giving me a well-rounded full-stack perspective.*
 
 ## **Skills**
 
+### **Back-end (Primary)**
+
+* PHP 8, Laravel (10/9), Lumen, Livewire, Filament, Inertia.js  
+* REST & GraphQL API design  
+* PHPUnit, Pest, Laravel Dusk  
+* Package development, Composer
+
+### **Back-end (Secondary)**
+
+* Node.js (NestJS, Express)  
+* Python (FastAPI, Django)
+
 ### **Front-end**
 
-* ReactJS (CRA, NextJS, Redux, Mobx,...)  
-* Vue (Nuxt)  
-* Angular  
-* React Native  
-* Electron
+* React (Next.js, Redux, React Native, Electron)
+* Vue 3 / Nuxt / Inertia.js  
+* Blade, Tailwind CSS, Chakra UI
 
-### **Back-end**
+### **Database & Messaging**
 
-* Nodejs (NestJS, ExpressJS, Loopback,...)  
-* Python (Django, Flask, FastAPI,...)  
-* tRPC, gRPC
-
-### **Database**
-
-* SQL (MySQL, PostgreSQL, Oracle Database, SQLite, MariaDB)  
-* NoSQL (MongoDB, Redis, DynamoDB)  
-* ORM (Prisma, Sequelize, TypeORM, Mongoose)  
-* REST, GraphQL
-
-### **Foundational Web Skills**
-
-* HTML  
-* CSS (Vanila, SASS/SCSS, Chakra, Bootstrap, MUI, Ant Design,...)  
-* JavaScript/ TypeScript
+* MySQL, PostgreSQL, MariaDB  
+* MongoDB, Redis (cache & queues)  
+* Eloquent ORM, Prisma, Sequelize  
+* RabbitMQ, Amazon SQS
 
 ### **Cloud & DevOps**
 
-* AWS (Lambda, Step Functions, EC2, S3, CloudFront, Route53)  
-* CI/CD tools: Jenkins, GitLab CI, GitHub Actions  
-* Docker, Kubernetes  
+* AWS (EC2, RDS, S3, Lambda, CloudFront, Route 53)  
+* Docker, Docker Compose, Kubernetes  
 * Terraform, AWS CDK  
-* Linux Administration  
-* Nginx
+* CI/CD – GitHub Actions, GitLab CI, Jenkins  
+* Linux Administration, Nginx
 
 ### **Security & Authentication**
 
-* OAuth 2.0 / OpenID Connect  
-* Google Cloud Identity Services  
-* JWT Authentication  
-* SSO Implementation
+* OAuth 2.0
+* Laravel Sanctum / Passport / JWT  
+* SSO implementation
 
-### **Testing**
+### **Testing & Quality**
 
-* Jest, Mocha, Cypress, Puppeteer,...
+* PHPUnit, Pest, Laravel Dusk  
+* Jest, Cypress, Playwright  
+* SonarQube, ESLint/PHPCS
 
-### **Tools**
+### **Project & Collaboration**
 
-* Git, Docker, Airtable, Clickup, Asana, Jira, Trello, Slack,...
+* Agile (Scrum/Kanban), Jira, ClickUp  
+* Git, GitFlow, PR reviews, Documentation (Markdown, Mermaid)
 
-### **Others**
-
-* Agile with Sprint Scrum, Kanban, architecture/infrastructure design, fluent English
-
-## 
+---
 
 ## **Experience**
 
 ### **ShirePF, United Kingdom \-** *[https://shirepf.co.uk*](https://shirepf.co.uk/) Technical Leader
 
-JULY 2023 \- PRESENT
+AUGUST 2024 \- PRESENT
 
 * Lead a diverse team of developers, fostering a collaborative environment to encourage innovative solutions and problem-solving.  
 * Handle the full spectrum of technical leadership duties, from setting project timelines and allocating resources, to troubleshooting technical issues and overseeing feature and design development.  
@@ -83,61 +78,59 @@ JULY 2023 \- PRESENT
 * Leverage project management tools such as Git, Clickup, diagrams, documentation to ensure smooth workflow and team collaborations.  
 * Drive Agile project management with sprint Scrum methodologies.
 
-### **Unlimited Design and Technology, Viet Nam \-** *[https://udt.group*](https://udt.group)  Senior Full-stack Software Engineer
+### **MyDIY, United Kingdom — Technical Lead / Senior Laravel Engineer**
+JULY 2022 – AUGUST 2024
 
-MAY 2021 \- JULY 2023
+* Architected and delivered a multi-tenant SaaS platform using Laravel 10 (TALL stack – Tailwind, Alpine, Laravel, Livewire) and Domain-Driven Design, supporting thousands of SMEs across the UK.
+* Implemented RESTful and GraphQL APIs secured with Laravel Sanctum and OAuth 2.0, enabling third-party integrations (Xero).
+* Utilised queues (Redis & Amazon SQS) and event-driven architecture to process > 1 million background jobs per day, reducing average response time by 40 %.
+* Automated infrastructure provisioning with Terraform and AWS CDK (ECS Fargate, RDS MySQL, S3, CloudFront) achieving zero-downtime blue-green deployments.
+* Established comprehensive test suite (> 1 000 unit & feature tests) with PHPUnit & Pest, reaching 95 % coverage and integrating quality gates in GitHub Actions CI pipeline.
+* Led a cross-functional team of 6 developers: conducted code reviews, mentored juniors, and coordinated Agile Scrum ceremonies.
 
-* Leveraged extensive full stack development skills in HTML, CSS, JavaScript/TypeScript, Python, Django, Flask, FastAPI, ReactJS, React Native, and more to create enterprise-grade applications.  
-* Maintained and monitored web servers using techniques like Docker, Kubernetes, Linux Administration, Terraform, Apache, and Nginx.  
-* Carried out in-depth testing through Jest, Mocha, Cypress, and Puppeteer to ensure applications ran smooth and bug-free.  
-* Built robust CI/CD pipelines using GitLab, Github Action, and Jenkins.  
-* Design and setup infrastructure using Terraform with AWS, GCP, Azure.  
-* Administered Docker and Kubernetes server system, resolved system errors resulting in 30% increase in efficiency and 70% reduce in cost.  
-* Utilized problem-solving skills to troubleshoot and resolve projects' relating issues.  
-* Handled Linux system administration.
+### **Unlimited Design and Technology, Viet Nam — Senior Full-Stack Software Engineer**
+MAY 2020 – JULY 2022
 
-### **Stitch and Heart, United States** Senior Full-stack Software Engineer
+* Modernised legacy PHP 5.6 monolith to Laravel 9 micro-services, improving performance by 50 % and decreasing infrastructure cost by 35 %.
+* Built rich, real-time dashboards with Inertia.js & Vue 3, leveraging Laravel Echo & WebSockets for live updates.
+* Designed GraphQL server using Lighthouse package, exposing unified schema consumed by Web & Mobile apps.
+* Containerised services with Docker and orchestrated staging/production environments on Kubernetes (EKS), enabling one-click environment provisioning.
+* Introduced automated testing strategy with Pest, Cypress, and Playwright, raising overall code quality and MTTR.
+* Implemented CI/CD pipelines (GitLab CI) with semantic versioning, automated migrations, and rollback strategies.
 
-DEC 2018 \- MAY 2021
+### **Stitch and Heart, United States — Senior Full-Stack Software Engineer**
+DEC 2017 – MAY 2020
 
-* Led development of high-traffic enterprise applications using React.js and Node.js, serving large scale of daily active users  
-* Architected and implemented serverless solutions using AWS Lambda Function for scalable backend processing  
-* Built and maintained CI/CD pipelines using AWS services, ensuring rapid and reliable deployment cycles  
-* Developed reusable TypeScript components and established coding standards for a team of 10+ developers  
-* Optimized application performance resulting in 40% improvement in load time and 30% reduction in server costs  
-* Collaborated with cross-functional teams across different departments to deliver features aligned with business requirements  
-* Implemented comprehensive testing strategies using Jest, achieving 90% test coverage  
-* Implemented secure authentication systems using OAuth 2.0  
-* Developed standardized authentication patterns and security best practices for the development team  
-* Participated in Agile ceremonies and technical design reviews for enterprise-scale projects
+* Developed customer-facing features and internal tools using Laravel 8, Livewire, and Tailwind CSS, serving a large base of daily active users.
+* Orchestrated background processing with Laravel Queues (Redis) and Horizon dashboard to maintain system health.
+* Implemented serverless functions (AWS Lambda) in combination with Laravel Vapor for cost-efficient task off-loading.
+* Collaborated with product and design teams across multiple time zones, refining specifications into technical solutions.
+* Established coding standards and reusable components, mentoring a team of 10+ developers and conducting regular technical workshops.
 
-### **Virtual Desire Events Joint Stock Company, Viet Nam \-** *[https://vdes.vn*](https://vdes.vn)  Full-stack Software Engineer
+### **Virtual Desire Events (VDES), Viet Nam — Full-Stack Software Engineer**
+JAN 2016 – DEC 2017
 
-JAN 2017 \- DEC 2018
-
-* Built a scalable platform containing ERP and marketplace using TypeScript, NextJS, Mobx, and Reactstrap for frontend, with Loopback 4 and MongoDB for backend. Implemented comprehensive unit testing using Jest and React Testing Library, achieving 80% code coverage.  
-* Designed and implemented microservices architecture using Node.js, PostgreSQL, MongoDB, MySQL and Redis for caching and message queues. Utilized gRPC for efficient service-to-service communication, resulting in 40% improved response time.  
-* Built and deployed production-grade mobile applications with complex UI/UX, native module integration, state management (Redux), offline-first architecture, and CI/CD implementation.  
-* Optimized iOS and Android platform-specific requirements.  
-* Established robust development workflow with Git branching strategies and PR review processes on GitHub/GitLab. Implemented automated code quality checks and testing in CI pipeline.  
-* Participated in designing architecture and infrastructure, CI/CD process using GitLab CI, AWS, Docker, Kubernetes.  
+* Built a scalable ERP & marketplace platform with TypeScript, Next.js (React) on the front-end and Laravelon the back-end.
+* Implemented comprehensive unit testing using Jest and React Testing Library, achieving 80% code coverage.
+* Designed dual-database architecture (MySQL for transactional data, MongoDB for analytics & search) with Redis for caching and BullMQ for job queues, improving response times by 40 %.
+* Introduced Kubernetes-based auto-scaling, handling traffic spikes of 2 000+ concurrent users.
+* Built and deployed production-grade mobile applications with complex UI/UX, native module integration, state management (MobX), and CI/CD implementation. 
+* Established CI/CD on GitLab CI, Dockerising services and automating deployments to AWS.
 * Maintained and modernized legacy application by migrating from vanilla JavaScript to TypeScript \+ React stack, implementing proper testing practices and modern development workflows. Successfully completed migration without business disruption while reducing development and infrastructure costs by 80%.
 
-## 
+---
 
 ## **Education**
 
 ### **HCMC University of Technology and Education, Viet Nam**
-
 Bachelor's Degree in Software Engineering  
-\- Academic incentive scholarship (3 times).  
-\- Special scholarship Faculty of High-Quality Training (2 times).
+• Academic incentive scholarship (3×)  
+• Faculty of High-Quality Training scholarship (2×)
+
+---
 
 ## **Certifications**
 
-### **Fit for Scrum \- Axon**
-
-🔖 Agile Methodologies and Scrum  
-🏅 Team Leader – Awarded Best Team Performance
+* Fit for Scrum – Axon (Best Team Performance)
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlIAAAADCAIAAADX8HZfAAAAKklEQVR4Xu3VQREAAAQAQbXEU1YOATRgZ/Z1BS46CwCeiJ0A4CrbA+CRAWx9UGZt6LJpAAAAAElFTkSuQmCC>
