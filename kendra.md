@@ -7,11 +7,11 @@ The LegalTech position looks interesting and aligns well with my React/Node.js e
 Before we proceed, I'd like to clarify a few details:
 
 1. What's the expected timeline for the interview process?
-2. Where within the $3-5k range would my 8+ years experience position me?
-3. What's the timeline for starting?
-4. Is there potential for salary progression as the Vietnam team grows?
+2. Given my 8+ years of full-stack experience and leadership background, how would this typically position within the salary range?
+3. What's the expected timeline for starting?
+4. Is there potential for salary progression as the Vietnam team grows? (I'm looking for a long-term career opportunity)
 
-I appreciate the opportunity and look forward to learning more about the company's Vietnam expansion plans.
+I've attached my updated resume for your reference. I'm excited to learn more about the company's Vietnam expansion plans and how I can contribute to this growth.
 
 Best regards,
 Duy

@@ -2,7 +2,7 @@
 
 # **Duy Mai**
 
-duymai4work@gmail.com
+duymai.tech@gmail.com
 
 ![][image1]
 
